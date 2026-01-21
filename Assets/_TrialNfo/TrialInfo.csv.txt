@@ -1,0 +1,11 @@
+Trial Number,Trial Type
+1,control
+2,control
+3,rotR1
+4,rotR2
+5,rotR3
+6,rotR4
+7,rotL1
+8,rotL2
+9,rotL3
+10,rotL4
