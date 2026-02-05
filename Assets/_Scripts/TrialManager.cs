@@ -49,7 +49,7 @@ public class TrialManager : MonoBehaviour
     {
         if (trialNumber <= 0 || trialNumber > trialInfoList.Count)
         {
-            Debug.LogError($"Invalid trial number {trialNumber}");
+            Debug.Log($"Invalid trial number {trialNumber}");
             return null;
         }
 
